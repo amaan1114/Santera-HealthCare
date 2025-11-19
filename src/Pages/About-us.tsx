@@ -4,9 +4,9 @@ import Team from "./AboutUscomponents/Team"
 export default function AboutUs(){
     return(
         <>
-            <Hero></Hero>
-            <Services></Services>
-            <Team></Team>
+            <Hero/>
+            <Services/>
+            <Team/>
         </>
        
     )
